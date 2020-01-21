@@ -8,7 +8,7 @@ namespace Boss_UPS_Training
 {
     static class Program
     {
-        //Test
+        //Test 2
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
